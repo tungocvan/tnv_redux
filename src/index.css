@@ -11,3 +11,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.heading-line::before{ border: 3px solid #610703!important;}
